@@ -1,0 +1,7 @@
+class hellowrold
+{
+    public static void main(String arg[])
+    {
+        System.out.println("hellowrold");
+    }
+}
